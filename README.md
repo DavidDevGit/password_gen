@@ -1,5 +1,5 @@
 # password_gen
-A password generator written in python.
+A password list generator written in python.
 
 How it works? 
 
